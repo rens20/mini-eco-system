@@ -1,0 +1,38 @@
+.body {
+    margin-top: 30px;
+}
+
+.intro {
+    margin-bottom: 20px; /* Add some space below the intro */
+}
+.item {
+    text-align: center;
+    max-width: 400px;;
+}
+
+.item > * {
+    margin-top: 10px;;
+}
+
+.item img {
+    width: 400px; /* Adjust as necessary */
+    height: 400px; /* Adjust as necessary */
+}
+
+.item h2, .item p {
+    text-align: left; /* Align text to the left */
+}
+
+.item button {
+    text-align: left; /* Align button text to the left */
+    display: block; /* Make the button a block element */
+    margin-left: 0; /* Align the button itself to the left */
+    border: 2px solid black;
+    background-color: white;
+    padding: 15px 40px;
+}
+
+.items {
+    display: flex;
+    justify-content: space-around;
+}
