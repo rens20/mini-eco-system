@@ -2,7 +2,7 @@
 // Database configuration
 $servername = "localhost"; 
 $username = "root"; 
-$password = "@wasie"; 
+$password = "@wasie123"; 
 $database = "receipt_info"; 
 
 // Create connection

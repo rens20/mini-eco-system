@@ -129,7 +129,7 @@
 
     </div>
     <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-        style="background-image: url('assets/images/about.jpg');">
+        style="background-image: url('assets/images/about.jpg');filter: brightness(80%);">
         <h1 class="text-5xl text-black">What We Do</h1>
         <p class="text-xl" >At TRASHCYCLE, our mission is to empower Lagro High School students to take
         meaningful action towards environmental sustainability. We provide a platform for
@@ -147,7 +147,7 @@ Lagro High School and beyond!</P>
 </div>
 </div>
 <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-    style="background-image: url('assets/images/about8.jpg');">
+    style="background-image: url('assets/images/about8.jpg');filter: brightness(80%);">
     <h1 class="text-5xl text-black">Benefits of Recycling</h1>
     <p class="text-xl">Additionally, recycling saves energy by requiring less energy to produce recycled
     materials compared to virgin materials, thus lowering greenhouse gas emissions
@@ -169,7 +169,7 @@ Lagro High School and beyond!</P>
 
 
 <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-    style="background-image: url('assets/images/about8.jpg');">
+    style="background-image: url('assets/images/about8.jpg');filter: brightness(80%);">
     <h1 class="text-5xl text-black">Benefits of Recycling</h1>
     <p class="text-xl">Discover the numerous environmental, economic, and social advantages of
     recycling and why it's essential for building a sustainable future
@@ -190,7 +190,7 @@ Lagro High School and beyond!</P>
     
     
     <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-        style="background-image: url('assets/images/about8.jpg');">
+        style="background-image: url('assets/images/about8.jpg');filter: brightness(80%);">
         <h1 class="text-5xl text-black">Benefits of Recycling</h1>
         <br>
         <p class="font-bold text-xl text-center">Social Advantages</p>
@@ -214,7 +214,7 @@ Lagro High School and beyond!</P>
         
         
         <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-            style="background-image: url('assets/images/about9.jpg');">
+            style="background-image: url('assets/images/about9.jpg');filter: brightness(80%);">
             <h1 class="text-5xl text-black">How Recycling Works</h1>
             <b></b>
             <p class="text-xl">We'll take you through the step-by-step process of recycling and how
@@ -238,7 +238,7 @@ Lagro High School and beyond!</P>
             
             
             <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-                style="background-image: url('assets/images/about9.jpg');">
+                style="background-image: url('assets/images/about9.jpg');filter: brightness(80%);">
                 <h1 class="text-5xl text-black">How Recycling Works</h1>
                 
                 <br>
@@ -265,7 +265,7 @@ Lagro High School and beyond!</P>
                     </div>
 
 <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-    style="background-image: url('assets/images/about10.jpg');">
+    style="background-image: url('assets/images/about10.jpg');filter: brightness(80%);">
     <h1 class="text-5xl text-black">Recycling DOS</h1>
 
     <div class="flex flex-wrap text-left b p-4">
@@ -341,7 +341,7 @@ Lagro High School and beyond!</P>
 </div>
 
 <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-    style="background-image: url('assets/images/about10.jpg');">
+    style="background-image: url('assets/images/about10.jpg');filter: brightness(80%);">
     <h1 class="text-5xl text-black">Recycling DOS</h1>
 
     <div class="flex flex-wrap text-left b p-4">
@@ -427,7 +427,7 @@ Lagro High School and beyond!</P>
     </div>
     </div>
     <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-    style="background-image: url('assets/images/abou11.jpg');">
+    style="background-image: url('assets/images/abou11.jpg');filter: brightness(80%);">
     <h1 class="text-5xl text-black">Eco-friendly Alternatives</h1>
     <br>
     <br>
@@ -465,7 +465,7 @@ Lagro High School and beyond!</P>
 </div>
 </div>
 <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-    style="background-image: url('assets/images/abou11.jpg');">
+    style="background-image: url('assets/images/abou11.jpg');filter: brightness(80%);">
     <h1 class="text-5xl text-black">Eco-friendly Alternatives</h1>
     <br>
     <br>
@@ -502,7 +502,7 @@ Lagro High School and beyond!</P>
     </div>
     </div>
     <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-        style="background-image: url('assets/images/abou11.jpg');">
+        style="background-image: url('assets/images/abou11.jpg');filter: brightness(80%);">
         <h1 class="text-5xl text-black">Eco-friendly Alternatives</h1>
         <br>
         <br>
@@ -540,7 +540,7 @@ Lagro High School and beyond!</P>
         </div>
     </div>
 <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6"
-    style="background-image: url('assets/images/abou11.jpg');">
+    style="background-image: url('assets/images/abou11.jpg'); filter: brightness(80%);">
     <h1 class="text-5xl text-black">About Us</h1>
     <br>
     <br>
@@ -568,46 +568,63 @@ environmental awareness and sustainability at Lagro High School!
     tomorrow!</p>
     <br>
     </div>
-    <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6">
-        <h1 class="text-5xl text-black">Meet the Team</h1>
-        <br>
-        <br>
-        <div class="flex justify-between mt-6">
+   <div class="body bg-cover bg-center bg-no-repeat min-h-screen flex flex-col items-center justify-center px-6">
+    <h1 class="text-5xl text-black">Meet the Team</h1>
+    <br>
+    <br>
+    <div class="container mx-auto px-4 py-8">
+        <div class="flex flex-wrap justify-center gap-8">
+            <!-- First Row of Images -->
             <div class="image-container">
-                <img src="./assets/images/team1.jpg" alt="Image 1" class="rounded-full border-4 border-white"
-                    style="width: 100px; height: 100px;">
-                <p class="text-center mt-2">Image 1</p>
+                <div class="rounded-full overflow-hidden">
+                    <img src="./assets/images/team61.jpg" alt="Image 1" class="w-20 h-20 object-cover">
+                </div>
+                <p class="text-center mt-2">Tricia Neth Fuentes</p>
+                <p class="text-center mt-2">Project Manager</p>
             </div>
             <div class="image-container">
-                <img src="./assets/images/team2.jpg" alt="Image 2" class="rounded-full border-4 border-white"
-                    style="width: 100px; height: 100px;">
-                <p class="text-center mt-2">Image 2</p>
+                <div class="rounded-full overflow-hidden">
+                    <img src="./assets/images/team1.jpg" alt="Image 2" class="w-20 h-20 object-cover">
+                </div>
+                <p class="text-center mt-2">Chezzy Nicolle Reginaldo</p>
+                <p class="text-center mt-2">Programmer</p>
             </div>
             <div class="image-container">
-                <img src="./assets/images/team3.jpg" alt="Image 3" class="rounded-full border-4 border-white"
-                    style="width: 100px; height: 100px;">
-                <p class="text-center mt-2">Image 3</p>
+                <div class="rounded-full overflow-hidden">
+                    <img src="./assets/images/team5.jpg" alt="Image 3" class="w-20 h-20 object-cover">
+                </div>
+                <p class="text-center mt-2">Franz Arroyo</p>
+                <p class="text-center mt-2">Programmer</p>
+            </div>
+            <!-- Second Row of Images -->
+            <div class="image-container">
+                <div class="rounded-full overflow-hidden">
+                    <img src="./assets/images/team4.jpg" alt="Image 4" class="w-20 h-20 object-cover">
+                </div>
+                <p class="text-center mt-2">Sydney Dela Cruz</p>
+                <p class="text-center mt-2">IU/UX DESIGN</p>
             </div>
             <div class="image-container">
-                <img src="./assets/images/team4.jpg" alt="Image 4" class="rounded-full border-4 border-white"
-                    style="width: 100px; height: 100px;">
-                <p class="text-center mt-2">Image 4</p>
+                <div class="rounded-full overflow-hidden">
+                    <img src="./assets/images/team2.jpg" alt="Image 5" class="w-20 h-20 object-cover">
+                </div>
+                <p class="text-center mt-2">Mark John Bocateja</p>
+                <p class="text-center mt-2">Tester</p>
             </div>
             <div class="image-container">
-                <img src="./assets/images/team5.jpg" alt="Image 5" class="rounded-full border-4 border-white"
-                    style="width: 100px; height: 100px;">
-                <p class="text-center mt-2">Image 5</p>
+                <div class="rounded-full overflow-hidden">
+                    <img src="./assets/images/team3.jpg" alt="Image 6" class="w-20 h-20 object-cover">
+                </div>
+                <p class="text-center mt-2">Mariane Benedicto</p>
+                <p class="text-center mt-2">ANALYST</p>
             </div>
-            <div class="image-container">
-                <img src="./assets/images/team6.jpg" alt="Image 6" class="rounded-full border-4 border-white"
-                    style="width: 100px; height: 100px;">
-                <p class="text-center mt-2">Image 6</p>
-            </div>
-         
         </div>
         <hr class="my-6 border-t border-black w-full">
-        <p class="text-right"><b>©2023 TRASHCYCLE. All Rights Reserved.</b></p>
+        <p class="text-left"><b>©2023 TRASHCYCLE. All Rights Reserved.</b></p>
     </div>
+</div>
+
+
 
     <script>
         let isMenuOpen = false;
