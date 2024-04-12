@@ -38,7 +38,7 @@ $database = "receipt_info";
     // Close database connection
     mysqli_close($conn);
 } else {
-
+echo " pag hindi ka pumasok sa DB bobo ka";
 }
 ?>
 
