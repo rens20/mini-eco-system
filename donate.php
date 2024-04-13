@@ -3,7 +3,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $servername = "localhost"; 
 $username = "root"; 
-$password = "@wasie123"; 
+$password = ""; 
 $database = "receipt_info"; 
 
     // Create connection
