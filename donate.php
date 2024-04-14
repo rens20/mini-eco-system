@@ -3,7 +3,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $servername = "localhost"; 
 $username = "root"; 
-$password = "@wasie123"; 
+$password = ""; 
 $database = "receipt_info"; 
 
     // Create connection
@@ -38,7 +38,7 @@ $database = "receipt_info";
     // Close database connection
     mysqli_close($conn);
 } else {
-
+echo " pag hindi ka pumasok sa DB bobo ka";
 }
 ?>
 
